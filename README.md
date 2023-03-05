@@ -5,7 +5,7 @@
 1. 通过selenium以及Firefox驱动打开某个提前获取的steam游戏的评论界面
 2. 用selenium自动翻页到底部,大概每小时加载12000条评论
 3. 用selenium获取界面的源代码
-4. 用beautifulsoup提取需要的内容并写入一个txt文件
+4. 用beautifulsoup以及lxml提取需要的内容并写入一个txt文件
 
 ## 注意:
 1. 由于使用selenium翻页的方法,所以速度极慢,但是写起来简单(bushi)
