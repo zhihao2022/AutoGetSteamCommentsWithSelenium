@@ -12,3 +12,8 @@
 2. 在国内需要先翻墙才能访问steam游戏评论界面
 3. 如果只是需要大概的数据,可以直接访问[steamspy](https://steamspy.com/)(也需要翻墙)
 
+## 需要的库以及工具
+1. requirements.txt中写明的selenium以及beautifulsoup4
+2. 在使用selenium之前需要下载的[Firefox驱动](https://github.com/mozilla/geckodriver/releases)
+3. 在使用beautifulsoup4中使用到的lxml(用pip install lxml下载即可)
+4. 一个梯子
